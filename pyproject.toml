@@ -44,7 +44,7 @@ dev = [
 ]
 ml = [
     "scikit-learn>=1.4.0",
-    "numpy>=1.26.0",
+    "numpy>=2.4.4",
     "scipy>=1.12.0",
 ]
 agents = [
