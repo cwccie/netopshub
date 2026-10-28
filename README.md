@@ -265,7 +265,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, coding standards, 
 ## Author
 
 **Corey A. Wade**
-CCIE #14124 · CISSP · PhD Candidate (AI + Security)
+CCIE #14124 · CISSP · PhD (AI + Security)
 [netopshub.com](https://netopshub.com) · [GitHub](https://github.com/cwccie)
 
 ---
